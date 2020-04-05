@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346673531324",
+    "firebase_url": "https://hurdles-2fd91.firebaseio.com",
+    "project_id": "hurdles-2fd91",
+    "storage_bucket": "hurdles-2fd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346673531324:android:ac3290a43160a6d8d2c3b9",
+        "android_client_info": {
+          "package_name": "com.example.owner.hurdles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346673531324-1h585vkpfcchjivc5bld1jlp4mnae3n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner.hurdles",
+            "certificate_hash": "845361ca689b0553eac5f4454326420ef558822f"
+          }
+        },
+        {
+          "client_id": "346673531324-ak9bugs5tg3lonr0sip1k9sbgakkhf9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKEbkZg6ak7xE_37mXHO3JeaaLrMP0qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346673531324-ak9bugs5tg3lonr0sip1k9sbgakkhf9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
